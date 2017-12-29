@@ -1,5 +1,5 @@
 # Tutorials
-This tutorials provide the BajaScript&Require&Backbone introduction:
+This tutorials provide the BajaScript&Require&Backbone walkthrough.
 
 ## 1. **intro**
 - how to start your application with Require
